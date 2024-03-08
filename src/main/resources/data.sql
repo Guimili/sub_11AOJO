@@ -1,0 +1,1 @@
+insert into ALUNO (nome, email) values ('Leo', 'email@email.com');
